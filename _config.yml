@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : images
 
   - title                                 : Levels
-    description                           : three level play mode are available: Easy, middle and hard
+    description                           : Easy, middle and hard levels play mode are available.
     fontawesome_icon_name                 : dollar-sign
 
   - title                                 : Just play!
