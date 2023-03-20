@@ -36,15 +36,15 @@ features                                  :
 
   - title                                 : No limit!
     description                           : game generate Infinite crossword puzzle tiles
-    fontawesome_icon_name                 : images
+    fontawesome_icon_name                 : fa-rocket
 
   - title                                 : Levels
     description                           : Easy, middle and hard levels play mode are available.
-    fontawesome_icon_name                 : dollar-sign
+    fontawesome_icon_name                 : fa-trophy
 
   - title                                 : Just play!
     description                           : No need to network connnecion to play
-    fontawesome_icon_name                 : palette
+    fontawesome_icon_name                 : fa-gamepad
 
 
 
